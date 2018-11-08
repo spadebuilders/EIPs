@@ -11,7 +11,7 @@ The list of Ethereum components is as follows. Each component may have a differe
 
 <!-- EDITORS / MAINTAINERS for each of the below -->
 
-* formal specificationhttps://github.com/ethereum/yellowpaper <!-- TO BE REPLACED with Jello Paper -->
+* formal specification https://github.com/ethereum/yellowpaper <!-- TO BE REPLACED with Jello Paper -->
 * devp2p https://github.com/ethereum/wiki/wiki/%C3%90%CE%9EVp2p-Wire-Protocol
 * Light Ethereum Subprotocol https://github.com/ethereum/wiki/wiki/Light-client-protocol
 * whisper https://github.com/ethereum/go-ethereum/wiki/Whisper-Overview
